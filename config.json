@@ -1,0 +1,7 @@
+{
+    "endpoints": [
+        "https://github.com",
+        "https://www.google.com",
+        "https://this-website-does-not-exist.com"
+    ]
+}
